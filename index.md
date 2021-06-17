@@ -4,8 +4,9 @@
 <br/>
 🎓 Interdisciplinarily studied, the major one is computer science, the minor one is business studies.  
 
-<br/><br/>
+<br/>
 💼 Become a strategy consultant at Bytedance after graduation, while the main work is not like consulting firms: product management and data analysis are focal, rather than desk research and slide drawing.  
+
 <br/>
 ## <center>Code Warehouse</center>
 📌 **Python scripts**, of which original scenes are `web spidering`, `text analysis`, `excel processing`      
