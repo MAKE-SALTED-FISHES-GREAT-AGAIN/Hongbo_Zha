@@ -2,14 +2,14 @@
  <br/> 
 I experienced unforgettable days in the UK respected colleges, dumb and trouble-free. I studied in an interdisciplinary way.
 
-* [x]   BSc Computer Science from the University of Liverpool
-* [x]   MSc Business from Warwick Business School
+[x]   BSc Computer Science from the University of Liverpool
+[x]   MSc Business from Warwick Business School
 
 <br/>   
 
 After postgraduation, I was named as a strategy analyst at Bytedance. However, the job is not in the traditional type.
 
-* [x]   Product management and data analysis are focal, rather than desk research
+[x]   Product management and data analysis are focal, rather than desk research
 
 
 ## A non company-owned code warehouse
