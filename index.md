@@ -1,14 +1,14 @@
 ## Self Characterizing
-I spent beautiful and trouble-free years in the UK respected colleges, studied in an interdisciplinary way.   
-✅ BSc Computer Science from the University of Liverpool\
-✅ MSc Business from Warwick Business School    
+I spent beautiful and trouble-free years in the UK respected colleges, and studied in an interdisciplinary way.   
+✔️	 Bachelor of Computer Science from the University of Liverpool      
+✔️	 Master of Business from Warwick Business School    
 
-After postgraduation, I was named as a strategy analyst at Bytedance, while the job is not in the traditional type.    
-✅ Product management and data analysis are focal, rather than desk research
+After postgraduation, I become a strategy analyst at Bytedance, while the focal work is not about desk research.    
+✔️	 Product design and management     
+✔️	 Data analysis
+
 ## Code Warehouse
-What I store here, are compatible plugins which:       
--   are extracted from work codes, of which origins include `spidering`, `text analysis`, `excel processing`
--   are written by `python`, which language is frequently being used in Bytedance.      
+What I store are `python scripts` of which original scenes are `spidering`, `text analysis`, `excel processing`      
 
 Here is my recommended repostories to view       
 [the menu is WIP](https://guides.github.com/features/mastering-markdown/)       
@@ -16,5 +16,6 @@ Here is my recommended repostories to view
 [the menu is WIP](https://guides.github.com/features/mastering-markdown/)       
 
 For more details see [Hongbo Zha's Updates](https://guides.github.com/features/mastering-markdown/).
+
 ## Contact!!!
 If you want: `a chance of referral`, `networking with me as alumni`, `communicating about career`, please wechat me 15162140513 or mail me zha229744891@gmail.com
