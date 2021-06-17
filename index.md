@@ -1,5 +1,6 @@
 ## <center>Self Characterizing</center>
 😁 Spent beautiful and trouble-free years in the UK respected colleges, Liverpool and Warwick.
+<br>
            
            
 🎓 Interdisciplinarily studied, the major one is computer science, the minor one is business studies.      
